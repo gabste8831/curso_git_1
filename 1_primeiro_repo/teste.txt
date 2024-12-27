@@ -1,0 +1,4 @@
+GIT = Versionamento de Códigos, poder criar versões... organizar e tornar o código acessível
+
+GIT INIT => cria um repositório
+(o git bash está presente tanto dentro do VS, quanto no pesquisar do PC)
