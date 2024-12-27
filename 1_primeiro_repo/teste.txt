@@ -2,3 +2,34 @@ GIT = Versionamento de Códigos, poder criar versões... organizar e tornar o c�
 
 GIT INIT => cria um repositório
 (o git bash está presente tanto dentro do VS, quanto no pesquisar do PC)
+
+a BRANCH seria uma ramificação do projeto
+a branch principal seria o projeto principal, e as demais serão "cópias" para modificação, sem alterar a fonte principal
+
+pra linkar com o repositorio é:
+git remote add origin https://github.com/gabste8831/curso_git_1.git
+
+git commit -m "info" => carrega as informações do commit
+git push -m  origin master => envia
+
+--------------------------------------------------------------------------------
+
+GIT STATUS
+- Mapeamento de todas as alterações do projeto - diz o que tem no repositório no github, e o que não... o que precisa de commit, etc... 
+mostra a situação atual das mudanças e estrutura
+
+--------------------------------------------------------------------------------
+
+GIT ADD
+- Processo de adição de novos arquivos ao controle de versão, presente posterior a isso, ao controle do git
+agora o arquivo está sendo mapeado pelo git
+- Usando o GIT ADD . => ele adiciona tudo de uma vez
+
+--------------------------------------------------------------------------------
+
+GIT COMMIT
+- fiz as mudanças, e quero salvar isso, para repletir no repositório
+- o commit meio que salva isso, e também permite comentários para controle
+- git commt -m "mensagem"
+
+--------------------------------------------------------------------------------
