@@ -31,5 +31,10 @@ GIT COMMIT
 - fiz as mudanças, e quero salvar isso, para repletir no repositório
 - o commit meio que salva isso, e também permite comentários para controle
 - git commt -m "mensagem"
+- git commit -a -m "mensagem" => envia todos (-a = all) (-m = mensage)
 
 --------------------------------------------------------------------------------
+
+GIT PUSH
+- O git push serve para enviar por fim, as alterções, os arquvos presentes no git, para o github
+- quando damos um git status, e não há nada pendente, estamos aptos para enviar o git push
