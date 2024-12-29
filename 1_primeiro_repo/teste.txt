@@ -95,4 +95,11 @@ GIT MV
 - para mover, e até mesmo renomear, fazemos o seguinte
 - git mv styles.css css/styles.css (arquivo primeiro, e depois a pasta, com o novo nome, ou repetindo o primeiro nome)
 
+--------------------------------------------------------------------------------
+
+GIT CHECKOUT
+
+- para retornar ao repositório master, no github
+- por acaso alteramos algo que não deveria... enfim, usamos o git checkout
+
 
