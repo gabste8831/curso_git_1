@@ -69,3 +69,18 @@ GIT RM
 - para remover um arquivo, utilizamos o git RM
 - ele remove o arquivo, e da mesma forma, essa alteração até então é feita somente localmente...
 - precisamos então dar um git status, e depois um git commit -a -m "exclusão de arquivos desnecessarios"
+- é interessante pq, se eu subir essa exclusão para o repo online, e um clone puxar um "git pull", ele puxa a exclusão que eu fiz
+
+--------------------------------------------------------------------------------
+
+LS
+
+- Comando que serve para visualizar tudo o que o GIT BASH tem controle sobre o código... isso é bom para, se caso algum arquivo não esteja
+sob controle do git, da para add
+
+--------------------------------------------------------------------------------
+
+GIT LOG 
+
+- Acesso ao histório de modificações do arquivo... algo além do terminal que a gente da um "clear" toda hora
+
