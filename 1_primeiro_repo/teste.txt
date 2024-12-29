@@ -38,3 +38,34 @@ GIT COMMIT
 GIT PUSH
 - O git push serve para enviar por fim, as alterções, os arquvos presentes no git, para o github
 - quando damos um git status, e não há nada pendente, estamos aptos para enviar o git push
+
+--------------------------------------------------------------------------------
+
+GIT PULL
+
+- Para sincronizar as aletações do repositório remoto, para o local, usa-se o git pull ("puxar"), assim
+unindo os códigos
+
+--------------------------------------------------------------------------------
+
+GIT CLONE
+
+- baixar um repositório remoto para local, chama-se clonar repositorio
+- muito usado quando entramos em um novo projeto já iniciado, ou equipe... enfim
+- basicamente o pull puxa alterações do seu repositório, feitas online, e o clone, puxa o repositório inteiro novo, podendo ser um que ainda
+não está presente na maquina local
+
+- nós abrimos o repo no github, vamos em "code" e copiamos aquele link fornecido
+- dai é só ir no terminal, digitar "cd../nome_da_nova_pasta"
+- agora já estamos no terminal da nova nome_da_nova_pasta
+- digitamos "git clone urlDoNovoRepo" . (o ponto serve para ele clonar no repositório atual, na pasta que foi criada)
+
+- todos os clones estão ligados diretamente a um repositório online, e assim todos conseguem ter acesso às modificações, com o push e pull
+
+--------------------------------------------------------------------------------
+
+GIT RM
+
+- para remover um arquivo, utilizamos o git RM
+- ele remove o arquivo, e da mesma forma, essa alteração até então é feita somente localmente...
+- precisamos então dar um git status, e depois um git commit -a -m "exclusão de arquivos desnecessarios"
