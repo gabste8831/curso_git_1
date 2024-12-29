@@ -111,6 +111,7 @@ GIT IGNORE
 - quando queremos ignorar algum arquivo, para não subir pro repositório, ou ficar oculto...
 - criamos um arquivo com o nome ".gitignore"
 - e lá dentro adicionamos o nome dos arquivos a serem ignorados...
+- importante citar que somente arquivos inseridos dentro da pasta, e depois criados, serão ignorados
 
 
 
