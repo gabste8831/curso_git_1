@@ -91,5 +91,8 @@ GIT LOG
 GIT MV
 
 - o git mv é responsável por "recortar" o arquivo, assim permitindo com que a gente mova para outras pastas...
-    
+- exemplo, criei uma pasta css, mas criei o arquvio styles.css fora dessa pasta
+- para mover, e até mesmo renomear, fazemos o seguinte
+- git mv styles.css css/styles.css (arquivo primeiro, e depois a pasta, com o novo nome, ou repetindo o primeiro nome)
+
 
