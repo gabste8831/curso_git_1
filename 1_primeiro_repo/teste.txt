@@ -83,4 +83,13 @@ sob controle do git, da para add
 GIT LOG 
 
 - Acesso ao histório de modificações do arquivo... algo além do terminal que a gente da um "clear" toda hora
+- mostra a alteração, a data e quem fez (nome, email, etc)
+- para sair do log, é só pressionar "q"
+
+--------------------------------------------------------------------------------
+
+GIT MV
+
+- o git mv é responsável por "recortar" o arquivo, assim permitindo com que a gente mova para outras pastas...
+    
 
