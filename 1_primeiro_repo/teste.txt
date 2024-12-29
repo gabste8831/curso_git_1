@@ -56,7 +56,7 @@ GIT CLONE
 não está presente na maquina local
 
 - nós abrimos o repo no github, vamos em "code" e copiamos aquele link fornecido
-- dai é só ir no terminal, digitar "cd../nome_da_nova_pasta"
+- dai é só ir no terminal, digitar "cd nome_da_nova_pasta"
 - agora já estamos no terminal da nova nome_da_nova_pasta
 - digitamos "git clone urlDoNovoRepo" . (o ponto serve para ele clonar no repositório atual, na pasta que foi criada)
 
