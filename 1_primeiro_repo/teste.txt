@@ -101,5 +101,16 @@ GIT CHECKOUT
 
 - para retornar ao repositório master, no github
 - por acaso alteramos algo que não deveria... enfim, usamos o git checkout
+- no caso antes do commit e do push
+- git checkout teste.txt por exemplo
+
+--------------------------------------------------------------------------------
+
+GIT IGNORE
+
+- quando queremos ignorar algum arquivo, para não subir pro repositório, ou ficar oculto...
+- criamos um arquivo com o nome ".gitignore"
+- e lá dentro adicionamos o nome dos arquivos a serem ignorados...
+
 
 
